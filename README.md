@@ -43,8 +43,12 @@ result in an increase in the idle time of the service mechanism.
 9. Connect all machine trending  inlet, outlet, robot manager and lathe machine using interface menu.
 10. Run the program.
 # Program :
+![vv](https://user-images.githubusercontent.com/75235704/175800786-eb032418-934b-4691-a2fa-f89f51363b2b.png)
 
  
 
-# Results and Output : 
- 
+# Results : 
+![vvv](https://user-images.githubusercontent.com/75235704/175800790-71254e6e-3d07-4f6e-8763-992c75069d58.png)
+
+# Output:
+
